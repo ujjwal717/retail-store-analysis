@@ -1,5 +1,5 @@
 # retail-sales-analysis
-It is a retail sales analysis. It provides insight and detailed analysis of the retail sales including various categories and detailed patterns that can affect the retail sales. The dataset is cleaned in which I removed missing values, modified the dataset by adding columns such as total amount etc according the requirement, preprocessed and transformed the data mainly using SQL and little bit of Excel. 
+It is a retail sales analysis. It provides insight and detailed analysis of the retail sales including various categories and detailed patterns that can affect the retail sales. The dataset is cleaned in which I removed missing values, modified the dataset by adding columns such as total amount etc according the requirement, preprocessed and transformed the data mainly using SQL and little bit of Excel. The dataset is taken from kaggle, analysis is done using SQL, Python, Pandas and visualization is done using Python, Bokeh and Plotly
 
 The various imports in the project including modules etc are :- 
 1) import psycopg2
