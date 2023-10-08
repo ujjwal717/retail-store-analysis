@@ -57,7 +57,7 @@ In the above visualization, we can see the sales insight of the retail store div
 
 A) **Insight 1 :-** We can see that the sales have skyrocketed in the month of may and there can be multiple reasons for that, Let's discuss them one by one :-
 
-**Reason 1 :-**  In India, the financial year ends in March and generally companies provide yearly bonus to their employees in the month of May or June(Sometime bonus is given even in july and actually depends from company to company). And employees can be those one of the customer categories that might be purchasing products from the retail sales during that period of time in the year.
+**Reason 1 :-**  In India, the financial year ends in March and generally companies provide yearly bonus to their employees in the month of May or June(Sometime bonus is given even in july and actually depends from company to company). And employees can be those one of the customer categories that might be purchasing products from the retail stores during that period of time in the year.
 
 **Reason 2 :-** Another reason can be the fact that there is absence of great dicsount on the online stores during that period of time in the year and that is more evident than the reason 1. In India, the massive online sales are during the festive seasons and generally online sales are not that great during the months such as May, June, July. Due to this, the customers might prefer taking products from a retail store since there is no major difference in the price and they will get the product same day(Online sales generally do not deliver product within same day in a lot of citites) and can even check the product before purchasing it.
 
