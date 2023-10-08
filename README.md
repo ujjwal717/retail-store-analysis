@@ -116,8 +116,26 @@ There is also difference in the months of the maximum sale achieved by a categor
 A detailed performance of each product category can be seen from the above visualization by hovering to the month/day part of the visualization.
 
 
-7)****
+7)**Total Quantity of Products Purchased by Customers according to their Age**
 
 
+![total quantity purchased according to customer age](https://github.com/ujjwal717/retail-sales-analysis/assets/93403224/e9d63b6f-a79a-4cec-a566-83b09b27e1b0)
+
+
+In the above visualization, we can see that the quantity of products sold are divided according to the age of the customers. It will allow us to understand more about the age group of the customers who prefer retail store and which age group of customers don't prefer retail stores.
+
+
+**Insight :-** We can clearly see that younger people are not that interested in purchasing from the retail stores and it is very obvious that there will be exception and this data might also include that exception which can be one of the reason why according to this visualization, certain young customers are also purchasing from the retail stores. But the difference is clear because the product quantity of older customers is way more than that of younger customers. Also, this visualization also has support for hovering to see the exact age and the quantity of the products purchased.
+
+**Reason :-** The reason seems obvious that older customer generally do not trust online stores, E-Commerce platform etc and we have also seen few frauds that happened by the seller end from various E-Commerce platforms which might be the reason that older customers might be reluctant to use such online platforms, obviously there will be exception in this case as well. But the younger customers are more aware in terms of facilities provided by such online stores such as replacement policies and "make video while unboxing a product to keep evidence" which might be the reasons that younger customer do not prefer retail stores that much.
+
+
+**Now the Various Steps that a Retail Store can take to improve their Sales :-**
+
+1) They can try to decrease their profit margin and provide discount to compete with the online stores.
+
+2) They can provide facilities such as One day Delivery and free installation of the Electronic products such as LED TVs, Air Conditioners etc which can be a major benefit to the customers as installation charges are generally high.
+
+3) Retail stores can also provide plans for additional warranty without any additional cost for which the online store charge the customers.
 
 
