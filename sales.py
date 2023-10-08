@@ -16,7 +16,7 @@ cursor = db_link.cursor()
 
 cursor.execute("SELECT * FROM sales_data;")
 a = cursor.fetchall()
-df = pd.read_sql("SELECT * FROM sales_data;",db_link)
+
 
 def category_percentage():
     df_beauty = pd.read_sql('''SELECT COUNT(product_category) AS order_count, COUNT(product_category)*100/1000 AS percentage, product_category FROM sales_data GROUP BY product_category HAVING product_category = 'Beauty' ORDER BY product_category''', db_link)
@@ -55,7 +55,7 @@ def avg_amount():
     df_avg_electronics = pd.read_sql('''SELECT product_category, avg(total_amount) AS average_amount FROM sales_data GROUP BY product_category HAVING product_category = 'Electronics' ''', db_link)
     df_avg_clothes = pd.read_sql('''SELECT product_category, avg(total_amount) AS average_amount FROM sales_data GROUP BY product_category HAVING product_category = 'Clothing' ''', db_link)
     df_avg_final = pd.concat([df_avg_beauty, df_avg_electronics, df_avg_clothes])
-    print(df_avg_final)
+    
 
     category = df_avg_final['product_category']
     average_amount = df_avg_final['average_amount']
@@ -100,7 +100,7 @@ def gender_quantity():
     df_male_quantity = pd.read_sql('''SELECT customer_id, gender, date, sum(quantity) OVER(PARTITION BY date ) AS purchase_quantity FROM sales_data WHERE gender = 'Male' ORDER BY date''', db_link)
     df_female_quantity = pd.read_sql('''SELECT customer_id, gender, date, sum(quantity) OVER(PARTITION BY date ) AS purchase_quantity FROM sales_data WHERE gender = 'Female' ORDER BY date''', db_link)
     df_gender_quantity = pd.concat([df_male_quantity, df_female_quantity])
-    print(df_gender_quantity)
+    
 
     fig_1 = px.line(df_gender_quantity,hover_data={"date": "|%B %d, %Y"}, x="date", y="purchase_quantity", color='gender', title = 'QUANTITY OF PRODUCTS PURCHASED EACH MONTH AND DAY WITH COMPARISON ACCORDING TO GENDER')
 
@@ -135,7 +135,7 @@ def year_sales_categories():
     df_year_beauty = pd.read_sql(''' SELECT DISTINCT product_category, date , sum(quantity) OVER (partition BY date) AS sales  FROM sales_data WHERE product_category = 'Beauty' ORDER BY date ''',db_link)
     df_year_clothes = pd.read_sql('''SELECT DISTINCT product_category,date, sum(quantity) OVER (partition BY date) AS sales  FROM sales_data WHERE product_category = 'Clothing' ORDER BY date ''',db_link)
     df_year_categories = pd.concat([df_year_electronics,df_year_beauty,df_year_clothes])
-    print(df_year_categories)
+    
 
     fig_3 = px.scatter(df_year_categories, title="RETAIL SALES OF THE YEAR DISTRIBUTED ACROSS MONTHS AND CATEGORIES", x="date", y="sales", color="sales", facet_col="product_category",hover_data={"date": "|%B %d, %Y"},width = 1500, height = 800)
 
