@@ -15,7 +15,7 @@ The various imports in the project including modules etc are :-
 11) from bokeh.models import HoverTool
 12) import plotly.express as px
 
-Now Let's discuss what I found from the analysis of the retail sales dataset and what insight I have drawn from it. I will be discussing it according to the each visual and what it tries to convey us.
+Now Let's discuss what I found from the analysis of the retail sales dataset and what insight I have drawn from it. I will be discussing it according to the each visualization and what it tries to convey us.
 
 **Note :- The images are captured using the snipping tool and this is why we cannot see the precised data/value in the images below but the project has support for hover tool which simply means that you can see the exact data/value of all the parts of all the visualization by hovering your cursor over the figure.**
 
