@@ -28,8 +28,11 @@ In the above visualization, we can see the percentage of retail sales division a
 **Insight :-**
 
 A) We found that the sales percentage of clothing is maximum while it is least for beauty.
+
 B) The reason might be the size constraint that is present in the online shopping, it means generally while shopping clothes on E-Commerce platform, we cannot be sure about the size of the clothes and also every brand generally has a little difference in size in the same size convention say 2XL.
+
 C) So, the customers might prefer to shop in retail stores to check the size of the clothes and they buy it which adds to the sales value of the clothing category.
+
 D) The Beauty category has the least sales percentage which can be because customers generally know which beauty products they want along with the branch name and the name of the exact product and because the E-Commerce platform generally has more discount than retail stores as online shopping removes the middle men, customers might be preferring online stores for beauty products.
 
 
