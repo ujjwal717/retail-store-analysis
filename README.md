@@ -33,7 +33,7 @@ B) The reason might be the size constraint that is present in the online shoppin
 
 C) So, the customers might prefer to shop in retail stores to check the size of the clothes and they buy it which adds to the sales value of the clothing category.
 
-D) The Beauty category has the least sales percentage which can be because customers generally know which beauty products they want along with the branch name and the name of the exact product and because the E-Commerce platform generally has more discount than retail stores as online shopping removes the middle men, customers might be preferring online stores for beauty products.
+D) The Beauty category has the least sales percentage which can be because customers generally know which beauty products they want along with the brand name and the name of the exact product and because the E-Commerce platform generally has more discount than retail stores as online shopping removes the middle men, customers might be preferring online stores for beauty products.
 
 
 2)**Average of total Amount Spent by the Customers in different Categories**
