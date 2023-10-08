@@ -67,4 +67,57 @@ B) **Insight 2 :-** We can see a significant dip in the retail sales during some
 
 **Reason 2 :- June :-** This time of year, online stores include sales such as "Monsoon Sales" and again customer prefer saving money from these discounts. Another reason which can be a bigger reason for the dip of retail sales in this month can be the fact that In India, there is summer vacation from schools during the month of June and families which are indeed the customers plan to go on a vacation during this month and due to this, they avoid spending money on products and save it for their trip/vacation which seems to be one of the reasons for the dip in the retail sales.
 
+**Reason 3 :- October (after 14/15 October) :-** This time of year, the leading E-Commerce platform in India namely "Flipkart" and "Amazon India" have their biggest sale in India. For Amazon, it is generally named as "Great Indian Festival" and for Flipkart, it is named as "Big Billion Days". Both of these sales/discount goes on for few days(they might increase the days of the sale as well) and include massive amount of discounts and exciting deals. And these sales generally begin from the later part of the october(the beginning date may also vary) and during this time, the retail sales goes down. Customer plans for these discount days from 1-2 months before and stop purchasing prodcucts that are not needed immediately as they wait for these deals, this is the reason why we see a dip in the retail sales in the month of **September** as well.
+
+**Reason 4 :- November :-** In India, November month generally has one of the biggest festival that is **Diwali**. The diwali festival is celebrated according to the Hindu calendar due to which, it's date changes slightly every year and is generally after the first week of November. The online stores are again ready to give heavy discout during the month of November and we can see the retail sale dips after the 8th/9th November due to the online sales. It is very evuident dip in the retail sales which can be seen easily from the sales and is very exact.
+
+4)**Quantity of Products Purchased each Month and DAY with comparison according to Gender**
+
+
+![quantity purchased according to gender](https://github.com/ujjwal717/retail-sales-analysis/assets/93403224/8cf43f9c-c243-4b40-b6fd-27346ab8c5cc)
+
+
+**Insight :-** We can see that for a few months female customers purchase more while in some months male customer are more dominant in purchasing various products from the retail stores.
+
+
+5)**Overall Products purchased in different Categories according to Gender**
+
+
+![overall products purcahsed in different categories according to gender](https://github.com/ujjwal717/retail-sales-analysis/assets/93403224/7dd927b8-b278-43d6-abd8-5181a8767f13)
+
+I wanted to check which of the gender purchased more products from the retail stores as it was not clear from the previous visualization, and this visualization clears the confusion.
+
+**Insight :-** We can clearly see and is evident as well that females purchased more products from the retail stores as compared to males in the categories such as "Beauty" and "Electronics" while males purchase more "clothing" products than females from the retail stores.
+
+Now to get a detailed insight, we can hover across the various parts of the visualization and see the actual difference between the quantity of products purchased by males and females.
+
+Clothing :- Male - 453, Female - 441
+
+Electronics :- Male - 410, Female - 439
+
+Beauty :- Male - 353, Female - 418
+
+Now with the exact amount, we can say that females prefer retail store more as compared to males as even in the category(Clothing) where males have purchased more, the difference us not that significant but in cases where the females are dominant in terms of purchasing products such as Beauty, the difference is significant.
+
+
+6)**Retail Sales of the Year distributed across Months and Categories**
+
+
+![sales of year across months and categories](https://github.com/ujjwal717/retail-sales-analysis/assets/93403224/1695e2dc-62ae-4499-8964-7c953ae67c09)
+
+
+
+In this visualization, we have divided the sales according to the categories and the scatterplots shows the sales of the products of each category throughout the year. It gives us a detailed explanation/analysis of how each category performed each month of the year. Also, like each and every other visualization, this visualization also includes the hovering features which allows you to see the sales of each and every day of the year for every category to see the insight. It also inludes date/month ranges that is present in various other visualizations as well by which you can select the part of the year such as "6 Months", "3 Months", "1 Month" or even custom month/date range for which the scrolling tool is given.
+
+**Insight :-** We can see that products of the Beauty Category has performed better if we consider only one factor and that is "maximum sale per day". But if we consider, which category/categories have sold more than 10 products on mutiple occassions than those categories will be "Electronics" and "Clothing as they have sold 10 products in a day around 6 times a year.
+
+There is also difference in the months of the maximum sale achieved by a category and that is May for "Electronics", July for "Beauty" and September for "Clothing".
+
+A detailed performance of each product category can be seen from the above visualization by hovering to the month/day part of the visualization.
+
+
+7)****
+
+
+
 
