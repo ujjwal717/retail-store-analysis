@@ -66,7 +66,7 @@ def avg_amount():
     ])
 
     source = ColumnDataSource(data=dict(category=category, average_amount=average_amount))
-    p_avg_amount = figure(x_range= category, height=500, toolbar_location=None, tools = [TOOLTIPS], title="AVERAGE TOTAL OF AMOUNT SPENT BY CUSTOMERS IN DIFFERENT CATEGORIES")
+    p_avg_amount = figure(x_range= category, height=500, toolbar_location=None, tools = [TOOLTIPS], title="AVERAGE OF TOTAL AMOUNT SPENT BY CUSTOMERS IN DIFFERENT CATEGORIES")
     p_avg_amount.vbar(x= 'category' , top='average_amount', width=0.4, source=source, legend_field="category",line_color='white', fill_color=factor_cmap('category', palette=Bright6, factors=category))
     p_avg_amount.xgrid.grid_line_color = None
     p_avg_amount.y_range.start = 0
