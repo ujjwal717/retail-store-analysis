@@ -12,10 +12,6 @@ from bokeh.models import HoverTool
 import plotly.express as px
 
 db_link = psycopg2.connect("dbname=<your database name> user=<your database username> password = <your database password> host = <your host> port = <your port number>")
-cursor = db_link.cursor()
-
-cursor.execute("SELECT * FROM sales_data;")
-a = cursor.fetchall()
 
 
 def category_percentage():
@@ -166,4 +162,4 @@ age_quantity()
 
 
 db_link.close()
-cursor.close()
+
