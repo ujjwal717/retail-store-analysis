@@ -21,7 +21,8 @@ Now Let's discuss what I found from the analysis of the retail sales dataset and
 
 1)**Retail Sales Percentage according to Categories**
 
-![categories percentage](https://github.com/ujjwal717/retail-sales-analysis/assets/93403224/97bd0d58-062b-4fe9-8ff0-54b20fdeb687)
+![sales percentage by categories](https://github.com/ujjwal717/retail-store-analysis/assets/93403224/bfaabda0-dc8b-4118-a3ef-a36eef27639f)
+
 
 In the above visualization, we can see the percentage of retail sales division according to the categories. The clothing category has a sales percentage of 35%, It is 34% for Electronics and 30% for Beauty.
 
@@ -38,7 +39,8 @@ D) The Beauty category has the least sales percentage which can be because custo
 
 2)**Average of total Amount Spent by the Customers in different Categories**
 
-![average total amount in different categories](https://github.com/ujjwal717/retail-sales-analysis/assets/93403224/097169b3-d086-4a3c-8436-b7e6092e9171)
+![avg of total amount spent by customers in different categories](https://github.com/ujjwal717/retail-store-analysis/assets/93403224/83265eb4-bbda-4918-98eb-5b3e6278903c)
+
 
 In the above visualization, we see the average of the total amount spent by the customers across various categories.
 
@@ -49,7 +51,8 @@ A) Here we can see that the average of total amount is very close among differen
 
 3)**Retail Sales Insight divided according to Months and Days**
 
-![sales according to months and days](https://github.com/ujjwal717/retail-sales-analysis/assets/93403224/5c82933e-5cbf-41a1-815a-099c117e5b43)
+![retail sales insight divided according to month and days](https://github.com/ujjwal717/retail-store-analysis/assets/93403224/c6d7e989-e491-421f-a42e-8edcc0dd2939)
+
 
 In the above visualization, we can see the sales insight of the retail store divided across months and days to have a detailed understanding about the sales.
 
@@ -74,7 +77,8 @@ B) **Insight 2 :-** We can see a significant dip in the retail sales during some
 4)**Quantity of Products Purchased each Month and DAY with comparison according to Gender**
 
 
-![quantity purchased according to gender](https://github.com/ujjwal717/retail-sales-analysis/assets/93403224/8cf43f9c-c243-4b40-b6fd-27346ab8c5cc)
+![quantity of products purchased each month and day with comparison according to gender](https://github.com/ujjwal717/retail-store-analysis/assets/93403224/a2c2a542-d7a6-4cb3-8420-699de9ca04f8)
+
 
 
 **Insight :-** We can see that for a few months female customers purchase more while in some months male customer are more dominant in purchasing various products from the retail stores.
@@ -83,7 +87,8 @@ B) **Insight 2 :-** We can see a significant dip in the retail sales during some
 5)**Overall Products purchased in different Categories according to Gender**
 
 
-![overall products purcahsed in different categories according to gender](https://github.com/ujjwal717/retail-sales-analysis/assets/93403224/7dd927b8-b278-43d6-abd8-5181a8767f13)
+![overall products purchased in different categories according to gender](https://github.com/ujjwal717/retail-store-analysis/assets/93403224/632f4142-eef5-494e-a7eb-032080796b77)
+
 
 I wanted to check which of the gender purchased more products from the retail stores as it was not clear from the previous visualization, and this visualization clears the confusion.
 
@@ -103,7 +108,8 @@ Now with the exact amount, we can say that females prefer retail store more as c
 6)**Retail Sales of the Year distributed across Months and Categories**
 
 
-![sales of year across months and categories](https://github.com/ujjwal717/retail-sales-analysis/assets/93403224/1695e2dc-62ae-4499-8964-7c953ae67c09)
+![retail sales of the year distributed across months and categories](https://github.com/ujjwal717/retail-store-analysis/assets/93403224/60efb778-9974-4a08-9bd2-b140a682e975)
+
 
 
 
@@ -119,7 +125,8 @@ A detailed performance of each product category can be seen from the above visua
 7)**Total Quantity of Products Purchased by Customers according to their Age**
 
 
-![total quantity purchased according to customer age](https://github.com/ujjwal717/retail-sales-analysis/assets/93403224/e9d63b6f-a79a-4cec-a566-83b09b27e1b0)
+![total quantity of products purchased by customers according to age](https://github.com/ujjwal717/retail-store-analysis/assets/93403224/1c9075a8-ac43-407e-ab65-4de78cfe2897)
+
 
 
 In the above visualization, we can see that the quantity of products sold are divided according to the age of the customers. It will allow us to understand more about the age group of the customers who prefer retail store and which age group of customers don't prefer retail stores.
