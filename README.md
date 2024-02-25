@@ -1,19 +1,6 @@
 # retail-store-analysis
 It is a retail store sales analysis. It provides insight and detailed analysis of the retail sales including various categories and detailed patterns that can affect the retail sales. The dataset is cleaned in which I removed missing values, modified the dataset by adding columns such as total amount etc according the requirement, preprocessed and transformed the data mainly using SQL and little bit of Excel. The dataset is taken from kaggle, analysis is done using SQL, Python, Pandas and visualization is done using Python, Bokeh and Plotly
 
-The various imports in the project including modules etc are :- 
-1) import psycopg2
-2) import pandas as pd
-3) from math import pi
-4) from bokeh.palettes import Dark2
-5) from bokeh.plotting import figure, output_file, save, show
-6) from bokeh.transform import cumsum
-7) from bokeh.models import ColumnDataSource
-8) from bokeh.palettes import Bright6
-9) from bokeh.transform import factor_cmap
-10) import webbrowser
-11) from bokeh.models import HoverTool
-12) import plotly.express as px
 
 Now Let's discuss what I found from the analysis of the retail sales dataset and what insight I have drawn from it. I will be discussing it according to the each visualization and what it tries to convey us.
 
