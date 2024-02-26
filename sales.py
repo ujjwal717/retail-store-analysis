@@ -3,7 +3,7 @@ import psycopg2
 import pandas as pd
 import plotly.express as px
 
-db_link = psycopg2.connect("dbname = Sales user=postgres password = 5580 host = localhost port = 5432")
+db_link = psycopg2.connect("dbname = <database name> user=<db username> password = <db username> host = <your host> port = <your port>")
 
 df = pd.read_sql('select * from sales_data', db_link)
 
